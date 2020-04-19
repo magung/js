@@ -1,0 +1,24 @@
+{
+  "name": "research",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^5.0.2",
+    "@slack/events-api": "^2.3.2",
+    "@slack/interactive-messages": "^1.5.0",
+    "@slack/rtm-api": "^5.0.3",
+    "@slack/web-api": "^5.8.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "node-slack": "0.0.7",
+    "slackbots": "^1.2.0"
+  }
+}
